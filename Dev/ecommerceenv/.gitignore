@@ -1,0 +1,16 @@
+# virtualenv
+Include
+Lib
+Scripts
+tcl
+
+# static files
+static_cdn
+
+# db
+src/*.sqlite3
+
+
+eCommerce.sublime-project
+eCommerce.sublime-workspace
+pip-selfcheck.json
