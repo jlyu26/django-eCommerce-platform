@@ -4,6 +4,10 @@ Lib
 Scripts
 tcl
 
+# cache
+__pycache__/
+
+# local dev
 eCommerce.sublime-project
 eCommerce.sublime-workspace
 pip-selfcheck.json
